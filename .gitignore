@@ -1,0 +1,22 @@
+# Eclipse
+.metadata/
+Servers/
+.settings/
+*.log
+
+# Build / temporary
+bin/
+target/
+out/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE temp files
+*.tmp
+*.bak
+*.swp
+
+# Compiled class files
+*.class
