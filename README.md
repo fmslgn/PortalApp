@@ -35,6 +35,41 @@ Bu projede aşağıdaki işlemler gerçekleştirilebilmektedir:
 - Session tabanlı kullanıcı kontrolü
 
 ---
+## Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](assets/ana-sayfa.png)
+
+### Giriş Sayfası
+![Giriş Sayfası](assets/giris-sayfasi.png)
+
+### Kayıt Ol Sayfası
+![Kayıt Ol Sayfası](assets/kayit-ol-sayfasi.png)
+
+### Profil Sayfası
+![Profil Sayfası](assets/profil-sayfasi.png)
+
+### Makale Listesi
+![Makale Listesi](assets/makale-listesi.png)
+
+### Makale Detay Sayfası
+![Makale Detay Sayfası](assets/makale-detay-sayfasi.png)
+
+### Makale Ekleme Sayfası
+![Makale Ekleme Sayfası](assets/makale-ekleme-sayfasi.png)
+
+### Makale Güncelleme Sayfası
+![Makale Güncelleme Sayfası](assets/makale-guncelleme-sayfasi.png)
+
+### Profil Resmi Yüklenmiş Hali
+![Profil Resmi Yüklenmiş Hali](assets/profil-resmi-yuklenmis.png)
+
+### Profil Resmi Yükleme Formu
+![Profil Resmi Yükleme Formu](assets/profil-resmi-yukleme-formu.png)
+
+### Şifre Yenileme Sayfası
+![Şifre Yenileme Sayfası](assets/sifre-yenileme-sayfasi.png)
+---
 
 ## Kullanılan Teknolojiler
 
@@ -375,38 +410,3 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ## Lisans
 
 Bu proje eğitim ve geliştirme amaçlı paylaşılmıştır.
-
-## Ekran Görüntüleri
-
-### Ana Sayfa
-![Ana Sayfa](assets/ana-sayfa.png)
-
-### Giriş Sayfası
-![Giriş Sayfası](assets/giris-sayfasi.png)
-
-### Kayıt Ol Sayfası
-![Kayıt Ol Sayfası](assets/kayit-ol-sayfasi.png)
-
-### Profil Sayfası
-![Profil Sayfası](assets/profil-sayfasi.png)
-
-### Makale Listesi
-![Makale Listesi](assets/makale-listesi.png)
-
-### Makale Detay Sayfası
-![Makale Detay Sayfası](assets/makale-detay-sayfasi.png)
-
-### Makale Ekleme Sayfası
-![Makale Ekleme Sayfası](assets/makale-ekleme-sayfasi.png)
-
-### Makale Güncelleme Sayfası
-![Makale Güncelleme Sayfası](assets/makale-guncelleme-sayfasi.png)
-
-### Profil Resmi Yüklenmiş Hali
-![Profil Resmi Yüklenmiş Hali](assets/profil-resmi-yuklenmis.png)
-
-### Profil Resmi Yükleme Formu
-![Profil Resmi Yükleme Formu](assets/profil-resmi-yukleme-formu.png)
-
-### Şifre Yenileme Sayfası
-![Şifre Yenileme Sayfası](assets/sifre-yenileme-sayfasi.png)
